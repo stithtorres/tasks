@@ -1,1 +1,1 @@
-React Example Proyect
+React Example Project

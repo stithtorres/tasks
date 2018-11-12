@@ -1,0 +1,25 @@
+{
+  "todos": [
+    {
+      "id": "1",
+      "title": "Task 1",
+      "responsible": "Bjork",
+      "description": "This is the first task, and its priority is low",
+      "priority": "low"
+    },
+    {
+      "id": "2",
+      "title": "New Task",
+      "responsible": "Django Reinhardt",
+      "description": "Learn Node.js",
+      "priority": "high"
+    },
+    {
+      "id": "3",
+      "title": "Build DB",
+      "responsible": "Natalia L.",
+      "description": "Create a database, create the connection and configure the environment.",
+      "priority": "medium"
+    }
+  ]
+}
